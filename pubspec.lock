@@ -75,19 +75,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
   get:
     dependency: "direct main"
     description:
       name: get
-      sha256: e5b2e10bfaf7c95b6399320026cd887dd2b4f53c183b0ad5b1f439d230ce25a8
+      sha256: e4e7335ede17452b391ed3b2ede016545706c01a02292a6c97619705e7d2a85e
       url: "https://pub.dev"
     source: hosted
-    version: "5.0.0-beta.50"
+    version: "4.6.6"
   leak_tracker:
     dependency: transitive
     description:
@@ -319,4 +314,4 @@ packages:
     version: "0.2.0+1"
 sdks:
   dart: ">=3.3.0 <4.0.0"
-  flutter: ">=2.8.0"
+  flutter: ">=3.13.0"

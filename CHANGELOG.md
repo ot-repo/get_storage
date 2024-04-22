@@ -1,3 +1,9 @@
+## [2.1.5] 
+- Remove nullable
+
+## [2.1.4] 
+- Add support to package:web
+
 ## [2.1.0] 
 - Add support to Getx5
 
